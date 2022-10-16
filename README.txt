@@ -11,3 +11,4 @@ Igual puedes solo registrarte como usuario
 Debes crear una base de datos de nombre socialdb con UTF8 spanish 2
 
 Después importas la bd ubicada dentro del proyecto, en la carpeta de nombre DATABASE
+https://www.configuroweb.com/proyecto-de-red-social-en-php-y-mysql-comparto-el-codigo/
